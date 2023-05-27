@@ -1,1 +1,1 @@
-Secondary Test File 
+Trying to ensure GitHub is configured correctly
